@@ -26,3 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - LandBot
+
+## Realização
+
+Esse projeto foi realizado pelo:
+
+Leonardo Dantas
+
+Otavio Ferreira
