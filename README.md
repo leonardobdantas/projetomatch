@@ -6,6 +6,7 @@ Foi escolhido e finalizado o Projeto 2: Implementação de Chatbot para Atendime
 ![image](https://github.com/leonardobdantas/ProjetoMatch-modulo1/assets/43340860/7b586151-4068-4a37-99c3-f9c78261ae4e)
 
 Para abrir o ChatBot basta clicar no icone no canto inferior direito do site.
+
 ![image](https://github.com/leonardobdantas/ProjetoMatch-modulo1/assets/43340860/cb9a0c18-5077-4163-850b-690593b85ff6)
 
 
